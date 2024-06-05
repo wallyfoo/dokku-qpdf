@@ -1,0 +1,4 @@
+[plugin]
+description = "dokku qpdf Ubuntu 22 Jammy"
+version = "0.0.1"
+[plugin.config]
